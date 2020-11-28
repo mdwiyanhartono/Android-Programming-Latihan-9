@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Latihan 9</string>
+
+    <string name="Image">MainFoto</string>
+    <string name="lableNama">Nama</string>
+    <string name="titik2">:</string>
+    <string name="nama">M. Dwiyan Hartono</string>
+    <string name="lableNIM">NIM</string>
+    <string name="nim">3420160144</string>
+    <string name="checkBoxBand2">Sheila on 7</string>
+    <string name="checkBoxBand1">Dewa 19</string>
+    <string name="Label1">Band Favorite</string>
+    <string name="checkBoxBand3">Slank</string>
+    <string name="Label2">Makanan Favorite</string>
+    <string name="submit">Submit</string>
+    <string name="radioButtonMakan1">Udang Saus Padang</string>
+    <string name="radioButtonMakan2">Sambel Goreng Kentang</string>
+    <string name="radioButtonMakan3">Rendang</string>
+    <string name="program_rating_bar">Program Rating Bar</string>
+    <string name="skalaRating">
+        Keterangan : \n
+        Bintang 5: Sangat Setuju\n
+        Bintang 4: Setuju\n
+        Bintang 3: Kurang Setuju\n
+        Bintang 2: Tidak Setuju\n
+        Bintang 1: Sangat Tidak Setuju
+    </string>
+    <string name="button_Exit">Exit</string>
+    <string name="Konfirmasi">Yakin mau keluar dari sistem?</string>
+
+</resources>
